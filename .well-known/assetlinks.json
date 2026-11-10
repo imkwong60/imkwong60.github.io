@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.imkwong60.twa",
+      "sha256_cert_fingerprints": [
+        "38:AA:DC:4A:66:04:84:C7:B2:B6:36:4D:37:9D:A5:41:05:99:9E:CB:EA:C2:CA:39:4C:79:C2:A6:56:54:A0:7E"
+      ]
+    }
+  }
+]
